@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Aula Juliano\\Aula-Juliano\\Trabalho 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC17EA1-9B08-4EA0-A3E4-2130B5D1BD91}|..\\ApiWebDB\\ApiWebDB.csproj|c:\\aula juliano\\aula-juliano\\apiwebdb\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC17EA1-9B08-4EA0-A3E4-2130B5D1BD91}|..\\ApiWebDB\\ApiWebDB.csproj|c:\\aula juliano\\aula-juliano\\apiwebdb\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC17EA1-9B08-4EA0-A3E4-2130B5D1BD91}|..\\ApiWebDB\\ApiWebDB.csproj|c:\\aula juliano\\aula-juliano\\apiwebdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC17EA1-9B08-4EA0-A3E4-2130B5D1BD91}|..\\ApiWebDB\\ApiWebDB.csproj|c:\\aula juliano\\aula-juliano\\apiwebdb\\basedados\\models\\tbendereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC17EA1-9B08-4EA0-A3E4-2130B5D1BD91}|..\\ApiWebDB\\ApiWebDB.csproj|c:\\aula juliano\\aula-juliano\\apiwebdb\\apiwebdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC17EA1-9B08-4EA0-A3E4-2130B5D1BD91}|..\\ApiWebDB\\ApiWebDB.csproj|c:\\aula juliano\\aula-juliano\\apiwebdb\\basedados\\apidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC17EA1-9B08-4EA0-A3E4-2130B5D1BD91}|..\\ApiWebDB\\ApiWebDB.csproj|c:\\aula juliano\\aula-juliano\\apiwebdb\\services\\validate\\enderecovalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC17EA1-9B08-4EA0-A3E4-2130B5D1BD91}|..\\ApiWebDB\\ApiWebDB.csproj|c:\\aula juliano\\aula-juliano\\apiwebdb\\services\\parser\\enderecoparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC17EA1-9B08-4EA0-A3E4-2130B5D1BD91}|..\\ApiWebDB\\ApiWebDB.csproj|c:\\aula juliano\\aula-juliano\\apiwebdb\\services\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC17EA1-9B08-4EA0-A3E4-2130B5D1BD91}|..\\ApiWebDB\\ApiWebDB.csproj|c:\\aula juliano\\aula-juliano\\apiwebdb\\services\\enderecoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC17EA1-9B08-4EA0-A3E4-2130B5D1BD91}|..\\ApiWebDB\\ApiWebDB.csproj|c:\\aula juliano\\aula-juliano\\apiwebdb\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiWebDB",
+              "DocumentMoniker": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\ApiWebDB.csproj",
+              "RelativeDocumentMoniker": "..\\ApiWebDB\\ApiWebDB.csproj",
+              "ToolTip": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\ApiWebDB.csproj",
+              "RelativeToolTip": "..\\ApiWebDB\\ApiWebDB.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T23:00:06.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiDbContext.cs",
+              "DocumentMoniker": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\BaseDados\\ApiDbContext.cs",
+              "RelativeDocumentMoniker": "..\\ApiWebDB\\BaseDados\\ApiDbContext.cs",
+              "ToolTip": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\BaseDados\\ApiDbContext.cs",
+              "RelativeToolTip": "..\\ApiWebDB\\BaseDados\\ApiDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:40:58.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ApiWebDB\\Program.cs",
+              "ToolTip": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Program.cs",
+              "RelativeToolTip": "..\\ApiWebDB\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:40:53.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "..\\ApiWebDB\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "..\\ApiWebDB\\Controllers\\EnderecoController.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAHoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:37:57.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnderecoValidate.cs",
+              "DocumentMoniker": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Services\\Validate\\EnderecoValidate.cs",
+              "RelativeDocumentMoniker": "..\\ApiWebDB\\Services\\Validate\\EnderecoValidate.cs",
+              "ToolTip": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Services\\Validate\\EnderecoValidate.cs",
+              "RelativeToolTip": "..\\ApiWebDB\\Services\\Validate\\EnderecoValidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:29:23.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnderecoParser.cs",
+              "DocumentMoniker": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Services\\Parser\\EnderecoParser.cs",
+              "RelativeDocumentMoniker": "..\\ApiWebDB\\Services\\Parser\\EnderecoParser.cs",
+              "ToolTip": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Services\\Parser\\EnderecoParser.cs",
+              "RelativeToolTip": "..\\ApiWebDB\\Services\\Parser\\EnderecoParser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:28:17.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TbEndereco.cs",
+              "DocumentMoniker": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\BaseDados\\Models\\TbEndereco.cs",
+              "RelativeDocumentMoniker": "..\\ApiWebDB\\BaseDados\\Models\\TbEndereco.cs",
+              "ToolTip": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\BaseDados\\Models\\TbEndereco.cs",
+              "RelativeToolTip": "..\\ApiWebDB\\BaseDados\\Models\\TbEndereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T23:23:38.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "..\\ApiWebDB\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "..\\ApiWebDB\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAIwHAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T22:10:20.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnderecoDTO.cs",
+              "DocumentMoniker": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Services\\DTOs\\EnderecoDTO.cs",
+              "RelativeDocumentMoniker": "..\\ApiWebDB\\Services\\DTOs\\EnderecoDTO.cs",
+              "ToolTip": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Services\\DTOs\\EnderecoDTO.cs",
+              "RelativeToolTip": "..\\ApiWebDB\\Services\\DTOs\\EnderecoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T23:27:43.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnderecoService.cs",
+              "DocumentMoniker": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Services\\EnderecoService.cs",
+              "RelativeDocumentMoniker": "..\\ApiWebDB\\Services\\EnderecoService.cs",
+              "ToolTip": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Services\\EnderecoService.cs",
+              "RelativeToolTip": "..\\ApiWebDB\\Services\\EnderecoService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAD4vxMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T22:53:55.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "..\\ApiWebDB\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Aula Juliano\\Aula-Juliano\\ApiWebDB\\Services\\ClienteService.cs",
+              "RelativeToolTip": "..\\ApiWebDB\\Services\\ClienteService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T22:05:56.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

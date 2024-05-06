@@ -19,7 +19,7 @@ using Trabalho_2.Classes;
                 Console.WriteLine("5) Estoque de segurança");
                 Console.WriteLine("6) Excesso de estoque");
                 Console.WriteLine("7) Média de preço por categoria");
-                Console.WriteLine("0) Sair");
+                Console.WriteLine("0) sair do programa");
                 Console.Write("Escolha uma opção: ");
                 opcao = int.Parse(Console.ReadLine());
 
@@ -59,9 +59,9 @@ using Trabalho_2.Classes;
 
         static void ProdutosMaisVendidos(List<Produto> produtos)
         {
-            var top5 = produtos.OrderByDescending(p => p.QtdVendida).Take(5);
+            var a = produtos.OrderByDescending(p => p.QtdVendida).Take(5);
             Console.WriteLine("Produtos mais vendidos:");
-            foreach (var produto in top5)
+            foreach (var produto in a)
             {
                 Console.WriteLine($"{produto.Codigo} - {produto.Descricao}");
             }
@@ -70,9 +70,9 @@ using Trabalho_2.Classes;
 
         static void ProdutosComMaisEstoque(List<Produto> produtos)
         {
-            var top3 = produtos.OrderByDescending(p => p.Estoque).Take(3);
+            var b = produtos.OrderByDescending(p => p.Estoque).Take(3);
             Console.WriteLine("Produtos com mais estoque:");
-            foreach (var produto in top3)
+            foreach (var produto in b)
             {
                 Console.WriteLine($"{produto.Codigo} - {produto.Descricao}: {produto.Estoque}");
             }
@@ -91,9 +91,9 @@ using Trabalho_2.Classes;
 
         static void ProdutosMenosVendidos(List<Produto> produtos)
         {
-            var bottom5 = produtos.OrderBy(p => p.QtdVendida).Take(5);
+            var c = produtos.OrderBy(p => p.QtdVendida).Take(5);
             Console.WriteLine("Produtos menos vendidos:");
-            foreach (var produto in bottom5)
+            foreach (var produto in c)
             {
                 Console.WriteLine($"{produto.Codigo} - {produto.Descricao}: {produto.QtdVendida}");
             }
